@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coronahvacco.com/sitemap.xml
